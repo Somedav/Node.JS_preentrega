@@ -51,7 +51,7 @@ function mostrar_productos(data) {
 };
 
 function eliminar_producto() {
-    console.log(`El producto nro: ${IDproducto} se ha eliminado. ${data.length} productos restantes.`)
+    console.log(`El producto nro: ${IDproducto} se ha eliminado.`)
 };
 
 function crear_producto() {
